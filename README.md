@@ -3,7 +3,7 @@ CRUD Operation with .NET 5 and Aurelia
 
 Backend How to use: Please download the project and open API project with Visual Studio. If any issues occur please follow the bellow steps and client project open with vs code and install npm.
 
-[N.B : Please open with Visual studio 2019 as an administrator while opening this project. Based on the upload instruction. You would have to download the zipped files first and then extract the project then go ahead to open with Visual Studio]
+[N.B : Please open visual studio 19 as an administrator and select clone repository and paste the github repository link and select the path where you want to save the project and then you will be able to run the project]
 
 You will need the latest Visual studio 2019 and the latest .NET Core SDK
 
